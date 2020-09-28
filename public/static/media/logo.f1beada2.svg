@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="110"
+   height="34"
+   viewBox="0 0 115.5 33.66"
+   version="1.1"
+   id="svg22"
+   inkscape:version="1.1-dev (22628fe, 2020-08-18)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18">
+    <rect
+       x="97.28611"
+       y="92.795982"
+       width="122.89049"
+       height="29.286053"
+       id="rect892" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568545"
+     inkscape:cx="25.455843"
+     inkscape:cy="22.980969"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:lockguides="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     width="110px" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="opacity:1">
+    <rect
+       style="fill:#2d89ef;fill-opacity:1;fill-rule:evenodd;stroke-width:0.178501"
+       id="rect24"
+       width="30.160629"
+       height="30.160629"
+       x="2.9857717"
+       y="2.6511362"
+       ry="8.7307091"
+       rx="8.7307091" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.131045"
+       id="rect888"
+       width="9.2542992"
+       height="2.508863"
+       x="18.893503"
+       y="21.207142"
+       rx="1.6005888"
+       ry="1.5883906" />
+    <text
+       xml:space="preserve"
+       id="text890"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;line-height:30.075px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';text-align:justify;white-space:pre;shape-inside:url(#rect892);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.92199564,0,0,1.2543757,-49.821906,-115.24647)"
+       x="17.534176"
+       y="0"><tspan
+         x="97.285156"
+         y="114.06942"><tspan
+           style="text-align:justify;text-anchor:start">slec </tspan></tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke-width:0.15194"
+       id="rect888-9"
+       width="10.575222"
+       height="2.9514718"
+       x="-8.8063536"
+       y="21.208731"
+       rx="1.8290507"
+       ry="1.8686115"
+       transform="matrix(0.72160105,-0.69230913,0.67303414,0.73961141,0,0)" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke-width:0.15194"
+       id="rect888-9-9"
+       width="10.575222"
+       height="2.9514718"
+       x="-24.162327"
+       y="0.44798344"
+       rx="1.8290507"
+       ry="1.8686115"
+       transform="matrix(-0.73794874,-0.67485677,-0.65515665,0.75549306,0,0)" />
+  </g>
+</svg>
